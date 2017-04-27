@@ -1,0 +1,33 @@
+{
+  "name": "popular-javascript-frameworks",
+  "version": "1.0.0",
+  "description": "The most popular JavaScript frameworks, based on GitHub stars, npm downloads, Google trends and StackOverflow questions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhnns/popular-javascript-frameworks.git"
+  },
+  "keywords": [
+    "javascript",
+    "framework",
+    "most",
+    "popular",
+    "top",
+    "ranking"
+  ],
+  "author": {
+    "name": "Johannes Ewald",
+    "email": "mail@johannesewald.de"
+  },
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/jhnns/popular-javascript-frameworks/issues"
+  },
+  "homepage": "https://github.com/jhnns/popular-javascript-frameworks#readme",
+  "engines": {
+    "node": ">=7"
+  }
+}
