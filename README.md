@@ -1,15 +1,12 @@
 # Popular JavaScript projects
 
-This repository provides:
+This repository provides scripts that I have used to retrieve and process data about JavaScript projects from GitHub, npm, StackOverflow etc. You can use the scripts for yourself if you want up-to-date data.
 
-- [Scripts](#scripts) to retrieve and process data about JavaScript projects from GitHub, npm, StackOverflow etc.
-- The actual [data](#data) on separate data branches
-
-You can use it to retrieve up-to-date data or just use it as a reference.
+If you don't want to run the scripts for yourself, check out my [gists](#gists) for precompiled data.
 
 ## Scripts
 
-All scripts can be executed with node > 6 by running `node scripts/<script-name> ...`. All data is written to `stdout`. Some meta information, such as the remaining rate limit, is written to stderr.
+All scripts can be executed with node > 6 by running `node scripts/<script-name> ...`. All data is written to `process.stdout`. Some meta information, such as the remaining rate limit, is written to `process.stderr`.
 
 You can pipe that data into a dedicated file by running for example `node scripts/githubStarsHistory.js jhnns/popular-javascript-projects > data/my-file.json`.
 
@@ -59,7 +56,11 @@ node scripts/removeFromHttpCache.js https://api.github.com/search/repositories
 
 Removes all cached responses from the given URL.
 
-## Data
+## Gists
+
+I've created some gists with precompiled data. Also check out the revisions for historic data.
+
+- [Most popular JavaScript projects](https://gist.github.com/jhnns/94188ba0904a82bbd0491bb21b041ce8)
 
 ## Config
 
@@ -71,7 +72,7 @@ In order to increase the rate limit, you need to create [an access token](https:
 
 ## HTTP Cache
 
-In order to save some requests, all responses are infinitly cached inside the `.http-cache` folder. Please delete this folder if you want to avoid stale data. You can delete all cached responses for a specific URL by using the [`removeFromHttpCache`](#removeFromHttpCache) script.
+In order to save some requests, all responses are infinitly cached inside the `.http-cache` folder. Please delete this folder if you want to avoid stale data. You can delete all cached responses for a specific URL by using the [`removeFromHttpCache`](#removefromhttpcache) script.
 
 ## License
 
