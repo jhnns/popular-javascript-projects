@@ -29,5 +29,14 @@
   "homepage": "https://github.com/jhnns/popular-javascript-frameworks#readme",
   "engines": {
     "node": ">=7"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-peerigon": "^10.1.1"
+  },
+  "dependencies": {
+    "axios": "^0.16.1",
+    "mkdirp": "^0.5.1",
+    "parse-link-header": "^0.4.1"
   }
 }
