@@ -1,0 +1,2317 @@
+[
+  {
+    "name": "freeCodeCamp/freeCodeCamp",
+    "description": "The https://freeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+    "stars": 265555
+  },
+  {
+    "name": "twbs/bootstrap",
+    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "stars": 110086
+  },
+  {
+    "name": "facebook/react",
+    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "stars": 65793
+  },
+  {
+    "name": "d3/d3",
+    "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:",
+    "stars": 63870
+  },
+  {
+    "name": "getify/You-Dont-Know-JS",
+    "description": "A book series on JavaScript. @YDKJS on twitter.",
+    "stars": 57798
+  },
+  {
+    "name": "angular/angular.js",
+    "description": "AngularJS - HTML enhanced for web apps!",
+    "stars": 55605
+  },
+  {
+    "name": "vuejs/vue",
+    "description": "A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "stars": 52242
+  },
+  {
+    "name": "airbnb/javascript",
+    "description": "JavaScript Style Guide",
+    "stars": 51496
+  },
+  {
+    "name": "facebook/react-native",
+    "description": "A framework for building native apps with React.",
+    "stars": 47826
+  },
+  {
+    "name": "jquery/jquery",
+    "description": "jQuery JavaScript Library",
+    "stars": 44605
+  },
+  {
+    "name": "meteor/meteor",
+    "description": "Meteor, the JavaScript App Platform",
+    "stars": 37275
+  },
+  {
+    "name": "h5bp/html5-boilerplate",
+    "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites.",
+    "stars": 37237
+  },
+  {
+    "name": "Semantic-Org/Semantic-UI",
+    "description": "Semantic is a UI component framework based around useful principles from natural language.",
+    "stars": 34505
+  },
+  {
+    "name": "nodejs/node",
+    "description": "Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:",
+    "stars": 34487
+  },
+  {
+    "name": "hakimel/reveal.js",
+    "description": "The HTML Presentation Framework",
+    "stars": 34293
+  },
+  {
+    "name": "mrdoob/three.js",
+    "description": "JavaScript 3D library.",
+    "stars": 32519
+  },
+  {
+    "name": "socketio/socket.io",
+    "description": "Realtime application framework (Node.JS server)",
+    "stars": 32421
+  },
+  {
+    "name": "expressjs/express",
+    "description": "Fast, unopinionated, minimalist web framework for node.",
+    "stars": 31554
+  },
+  {
+    "name": "impress/impress.js",
+    "description": "It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.",
+    "stars": 31454
+  },
+  {
+    "name": "moment/moment",
+    "description": "Parse, validate, manipulate, and display dates in javascript.",
+    "stars": 31158
+  },
+  {
+    "name": "reactjs/redux",
+    "description": "Predictable state container for JavaScript apps",
+    "stars": 30583
+  },
+  {
+    "name": "chartjs/Chart.js",
+    "description": "Simple HTML5 Charts using the <canvas> tag",
+    "stars": 29700
+  },
+  {
+    "name": "resume/resume.github.com",
+    "description": "Resumes generated using the GitHub informations",
+    "stars": 28443
+  },
+  {
+    "name": "adobe/brackets",
+    "description": "An open source code editor for the web, written in JavaScript, HTML and CSS.",
+    "stars": 27350
+  },
+  {
+    "name": "webpack/webpack",
+    "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through \"loaders,\" modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+    "stars": 27233
+  },
+  {
+    "name": "NARKOZ/hacker-scripts",
+    "description": "Based on a true story",
+    "stars": 27166
+  },
+  {
+    "name": "blueimp/jQuery-File-Upload",
+    "description": "File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.",
+    "stars": 26554
+  },
+  {
+    "name": "jashkenas/backbone",
+    "description": "Give your JS App some Backbone with Models, Views, Collections, and Events",
+    "stars": 26267
+  },
+  {
+    "name": "Dogfalo/materialize",
+    "description": "Materialize, a CSS Framework based on Material Design",
+    "stars": 26210
+  },
+  {
+    "name": "gulpjs/gulp",
+    "description": "The streaming build system",
+    "stars": 26142
+  },
+  {
+    "name": "facebookincubator/create-react-app",
+    "description": "Create React apps with no build configuration.",
+    "stars": 25655
+  },
+  {
+    "name": "zurb/foundation-sites",
+    "description": "The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.",
+    "stars": 25361
+  },
+  {
+    "name": "callemall/material-ui",
+    "description": "React Components that Implement Google's Material Design.",
+    "stars": 25251
+  },
+  {
+    "name": "yarnpkg/yarn",
+    "description": "📦🐈 Fast, reliable, and secure dependency management.",
+    "stars": 24799
+  },
+  {
+    "name": "lodash/lodash",
+    "description": "A modern JavaScript utility library delivering modularity, performance, & extras.",
+    "stars": 23166
+  },
+  {
+    "name": "nylas/nylas-mail",
+    "description": ":love_letter: An extensible desktop mail app built on the modern web.",
+    "stars": 22718
+  },
+  {
+    "name": "TryGhost/Ghost",
+    "description": "A simple, powerful publishing platform",
+    "stars": 22626
+  },
+  {
+    "name": "ReactTraining/react-router",
+    "description": "Declarative routing for React",
+    "stars": 21835
+  },
+  {
+    "name": "caolan/async",
+    "description": "Async utilities for node and the browser",
+    "stars": 21139
+  },
+  {
+    "name": "typicode/json-server",
+    "description": "Get a full fake REST API with zero coding in less than 30 seconds (seriously)",
+    "stars": 21055
+  },
+  {
+    "name": "babel/babel",
+    "description": ":tropical_fish: Babel is a compiler for writing next generation JavaScript.",
+    "stars": 20884
+  },
+  {
+    "name": "tastejs/todomvc",
+    "description": "Helping you select an MV* framework - Todo apps for Backbone.js, Ember.js, AngularJS, and many more",
+    "stars": 20863
+  },
+  {
+    "name": "jashkenas/underscore",
+    "description": "JavaScript's utility _ belt",
+    "stars": 20563
+  },
+  {
+    "name": "Modernizr/Modernizr",
+    "description": "Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.",
+    "stars": 20284
+  },
+  {
+    "name": "select2/select2",
+    "description": "Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.",
+    "stars": 20142
+  },
+  {
+    "name": "adam-p/markdown-here",
+    "description": "Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.",
+    "stars": 19381
+  },
+  {
+    "name": "alvarotrigo/fullPage.js",
+    "description": "fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple",
+    "stars": 18815
+  },
+  {
+    "name": "mzabriskie/axios",
+    "description": "Promise based HTTP client for the browser and node.js",
+    "stars": 18733
+  },
+  {
+    "name": "Unitech/pm2",
+    "description": "Production process manager for Node.js apps with a built-in load balancer.",
+    "stars": 18648
+  },
+  {
+    "name": "facebook/immutable-js",
+    "description": "Immutable persistent data collections for Javascript which increase efficiency and simplicity.",
+    "stars": 18486
+  },
+  {
+    "name": "Leaflet/Leaflet",
+    "description": " :leaves: JavaScript library for mobile-friendly interactive maps",
+    "stars": 18290
+  },
+  {
+    "name": "kenwheeler/slick",
+    "description": "the last carousel you'll ever need",
+    "stars": 18151
+  },
+  {
+    "name": "emberjs/ember.js",
+    "description": "Ember.js - A JavaScript framework for creating ambitious web applications",
+    "stars": 17818
+  },
+  {
+    "name": "mozilla/pdf.js",
+    "description": "PDF Reader in JavaScript",
+    "stars": 17789
+  },
+  {
+    "name": "justjavac/free-programming-books-zh_CN",
+    "description": ":books: 免费的计算机编程类中文书籍，欢迎投稿",
+    "stars": 17784
+  },
+  {
+    "name": "ecomfe/echarts",
+    "description": "A powerful, interactive charting and visualization library for browser",
+    "stars": 17608
+  },
+  {
+    "name": "zenorocha/clipboard.js",
+    "description": ":scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:",
+    "stars": 17092
+  },
+  {
+    "name": "balderdashy/sails",
+    "description": "Realtime MVC Framework for Node.js",
+    "stars": 16989
+  },
+  {
+    "name": "zeit/hyper",
+    "description": "A terminal built on web technologies",
+    "stars": 16559
+  },
+  {
+    "name": "serverless/serverless",
+    "description": "Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – ",
+    "stars": 16229
+  },
+  {
+    "name": "hammerjs/hammer.js",
+    "description": "A javascript library for multi-touch gestures :// You can touch this",
+    "stars": 16114
+  },
+  {
+    "name": "hexojs/hexo",
+    "description": "A fast, simple & powerful blog framework, powered by Node.js.",
+    "stars": 16071
+  },
+  {
+    "name": "videojs/video.js",
+    "description": "Video.js - open source HTML5 & Flash video player",
+    "stars": 16067
+  },
+  {
+    "name": "Reactive-Extensions/RxJS",
+    "description": "The Reactive Extensions for JavaScript",
+    "stars": 15851
+  },
+  {
+    "name": "bevacqua/dragula",
+    "description": ":ok_hand: Drag and drop so simple it hurts",
+    "stars": 15811
+  },
+  {
+    "name": "t4t5/sweetalert",
+    "description": "A beautiful replacement for JavaScript's \"alert\"",
+    "stars": 15745
+  },
+  {
+    "name": "angular/material",
+    "description": "Material design for AngularJS",
+    "stars": 15459
+  },
+  {
+    "name": "Kickball/awesome-selfhosted",
+    "description": "This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.",
+    "stars": 15329
+  },
+  {
+    "name": "request/request",
+    "description": "🏊🏾 Simplified HTTP request client.",
+    "stars": 15255
+  },
+  {
+    "name": "koajs/koa",
+    "description": "Expressive middleware for node.js using ES2017 async functions",
+    "stars": 15255
+  },
+  {
+    "name": "GitbookIO/gitbook",
+    "description": "📝 Modern documentation format and toolchain using Git and Markdown",
+    "stars": 15118
+  },
+  {
+    "name": "bower/bower",
+    "description": "A package manager for the web",
+    "stars": 15053
+  },
+  {
+    "name": "defunkt/jquery-pjax",
+    "description": "pushState + ajax = pjax",
+    "stars": 14917
+  },
+  {
+    "name": "ajaxorg/ace",
+    "description": "Ace (Ajax.org Cloud9 Editor)",
+    "stars": 14794
+  },
+  {
+    "name": "verekia/js-stack-from-scratch",
+    "description": "🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.",
+    "stars": 14778
+  },
+  {
+    "name": "less/less.js",
+    "description": "Leaner CSS",
+    "stars": 14672
+  },
+  {
+    "name": "aosabook/500lines",
+    "description": "500 Lines or Less",
+    "stars": 14577
+  },
+  {
+    "name": "postcss/postcss",
+    "description": "Transforming styles with JS plugins",
+    "stars": 14550
+  },
+  {
+    "name": "petkaantonov/bluebird",
+    "description": ":bird: :zap: Bluebird is a full featured promise library with unmatched performance.",
+    "stars": 14478
+  },
+  {
+    "name": "pugjs/pug",
+    "description": "Pug – robust, elegant, feature rich template engine for Node.js",
+    "stars": 14211
+  },
+  {
+    "name": "pixijs/pixi.js",
+    "description": "Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback",
+    "stars": 14133
+  },
+  {
+    "name": "twitter/typeahead.js",
+    "description": "typeahead.js is a fast and fully-featured autocomplete library",
+    "stars": 14126
+  },
+  {
+    "name": "angular-ui/bootstrap",
+    "description": "Native AngularJS (Angular) directives for Bootstrap. Smaller footprint (20kB gzipped), no 3rd party JS dependencies (jQuery, bootstrap JS) required. Please read the README.md file before submitting an issue!",
+    "stars": 14073
+  },
+  {
+    "name": "lord/slate",
+    "description": "Beautiful static documentation for your API",
+    "stars": 14037
+  },
+  {
+    "name": "github/fetch",
+    "description": "A window.fetch JavaScript polyfill.",
+    "stars": 13958
+  },
+  {
+    "name": "ryanmcdermott/clean-code-javascript",
+    "description": ":bathtub: Clean Code concepts adapted for JavaScript",
+    "stars": 13807
+  },
+  {
+    "name": "dimsemenov/PhotoSwipe",
+    "description": "JavaScript image gallery for mobile and desktop, modular, framework independent",
+    "stars": 13799
+  },
+  {
+    "name": "facebook/flux",
+    "description": "Application Architecture for Building User Interfaces",
+    "stars": 13745
+  },
+  {
+    "name": "kriasoft/react-starter-kit",
+    "description": "React Starter Kit — isomorphic web app boilerplate (Node.js, Express, GraphQL, React.js, Babel, PostCSS, Webpack, Browsersync)",
+    "stars": 13730
+  },
+  {
+    "name": "react-boilerplate/react-boilerplate",
+    "description": ":fire: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.",
+    "stars": 13611
+  },
+  {
+    "name": "rstacruz/nprogress",
+    "description": "For slim progress bars like on YouTube, Medium, etc",
+    "stars": 13383
+  },
+  {
+    "name": "webtorrent/webtorrent",
+    "description": ":zap: Streaming torrent client for the web",
+    "stars": 13367
+  },
+  {
+    "name": "parse-community/parse-server",
+    "description": "Parse-compatible API server module for Node/Express",
+    "stars": 13352
+  },
+  {
+    "name": "quilljs/quill",
+    "description": "Your powerful, rich text editor",
+    "stars": 13227
+  },
+  {
+    "name": "kriskowal/q",
+    "description": "A promise library for JavaScript",
+    "stars": 13208
+  },
+  {
+    "name": "knsv/mermaid",
+    "description": "Generation of diagram and flowchart from text in a similar manner as markdown",
+    "stars": 12822
+  },
+  {
+    "name": "angular/angular-seed",
+    "description": "Seed project for angular apps. ",
+    "stars": 12813
+  },
+  {
+    "name": "zeit/next.js",
+    "description": "Framework for server-rendered React apps",
+    "stars": 12810
+  },
+  {
+    "name": "julianshapiro/velocity",
+    "description": "Accelerated JavaScript animation.",
+    "stars": 12755
+  },
+  {
+    "name": "jasmine/jasmine",
+    "description": "Simple JavaScript testing framework for browsers and node.js",
+    "stars": 12391
+  },
+  {
+    "name": "npm/npm",
+    "description": "a package manager for javascript",
+    "stars": 12245
+  },
+  {
+    "name": "mochajs/mocha",
+    "description": "☕️ simple, flexible, fun javascript test framework for node.js & the browser",
+    "stars": 12219
+  },
+  {
+    "name": "Automattic/mongoose",
+    "description": "MongoDB object modeling designed to work in an asynchronous environment.",
+    "stars": 12157
+  },
+  {
+    "name": "jlmakes/scrollreveal",
+    "description": "Easy scroll animations for web and mobile browsers.",
+    "stars": 12150
+  },
+  {
+    "name": "juliangarnier/anime",
+    "description": "JavaScript Animation Engine",
+    "stars": 12115
+  },
+  {
+    "name": "nolimits4web/Swiper",
+    "description": "Most modern mobile touch slider with hardware accelerated transitions",
+    "stars": 12097
+  },
+  {
+    "name": "cheeriojs/cheerio",
+    "description": "Fast, flexible, and lean implementation of core jQuery designed specifically for the server.",
+    "stars": 12021
+  },
+  {
+    "name": "RocketChat/Rocket.Chat",
+    "description": "Have your own Slack like online chat, built with Meteor.",
+    "stars": 11876
+  },
+  {
+    "name": "wycats/handlebars.js",
+    "description": null,
+    "stars": 11852
+  },
+  {
+    "name": "riot/riot",
+    "description": "Simple and elegant component-based UI library",
+    "stars": 11849
+  },
+  {
+    "name": "segmentio/nightmare",
+    "description": "A high-level browser automation library.",
+    "stars": 11806
+  },
+  {
+    "name": "codemirror/CodeMirror",
+    "description": "In-browser code editor",
+    "stars": 11631
+  },
+  {
+    "name": "naptha/tesseract.js",
+    "description": "Pure Javascript OCR for 62 Languages 📖🎉🖥",
+    "stars": 11562
+  },
+  {
+    "name": "legomushroom/mojs",
+    "description": "motion graphics toolbelt for the web",
+    "stars": 11499
+  },
+  {
+    "name": "feross/standard",
+    "description": ":star2: JavaScript Style Guide, with linter & automatic code fixer",
+    "stars": 11421
+  },
+  {
+    "name": "gruntjs/grunt",
+    "description": "Grunt: The JavaScript Task Runner",
+    "stars": 11386
+  },
+  {
+    "name": "wagerfield/parallax",
+    "description": "Parallax Engine that reacts to the orientation of a smart device",
+    "stars": 11346
+  },
+  {
+    "name": "node-inspector/node-inspector",
+    "description": "Node.js debugger based on Blink Developer Tools",
+    "stars": 11325
+  },
+  {
+    "name": "etsy/statsd",
+    "description": "Daemon for easy but powerful stats aggregation",
+    "stars": 11311
+  },
+  {
+    "name": "MostlyAdequate/mostly-adequate-guide",
+    "description": "Mostly adequate guide to FP (in javascript)",
+    "stars": 11208
+  },
+  {
+    "name": "oneuijs/You-Dont-Need-jQuery",
+    "description": "Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.",
+    "stars": 11077
+  },
+  {
+    "name": "substack/node-browserify",
+    "description": "browser-side require() the node.js way",
+    "stars": 10977
+  },
+  {
+    "name": "scottjehl/Respond",
+    "description": "A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more)",
+    "stars": 10823
+  },
+  {
+    "name": "Shopify/dashing",
+    "description": "The exceptionally handsome dashboard framework in Ruby and Coffeescript.",
+    "stars": 10789
+  },
+  {
+    "name": "janl/mustache.js",
+    "description": "Minimal templating with {{mustaches}} in JavaScript",
+    "stars": 10679
+  },
+  {
+    "name": "remy/nodemon",
+    "description": "Monitor for any changes in your node.js application and automatically restart the server - perfect for development",
+    "stars": 10659
+  },
+  {
+    "name": "requirejs/requirejs",
+    "description": "A file and module loader for JavaScript",
+    "stars": 10514
+  },
+  {
+    "name": "jaredhanson/passport",
+    "description": "Simple, unobtrusive authentication for Node.js.",
+    "stars": 10442
+  },
+  {
+    "name": "yabwe/medium-editor",
+    "description": "Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.",
+    "stars": 10440
+  },
+  {
+    "name": "visionmedia/superagent",
+    "description": "Ajax with less suck - (and node.js HTTP client to match)",
+    "stars": 10409
+  },
+  {
+    "name": "mattermost/platform",
+    "description": "Open source Slack-alternative in Golang and React - Mattermost",
+    "stars": 10379
+  },
+  {
+    "name": "git-tips/tips",
+    "description": "Most commonly used git tips and tricks.",
+    "stars": 10184
+  },
+  {
+    "name": "Marak/faker.js",
+    "description": "generate massive amounts of fake data in Node.js and the browser",
+    "stars": 10089
+  },
+  {
+    "name": "substack/stream-handbook",
+    "description": "how to write node programs with streams",
+    "stars": 10057
+  },
+  {
+    "name": "jiahaog/nativefier",
+    "description": "Make any web page a desktop application",
+    "stars": 10033
+  },
+  {
+    "name": "JacksonTian/fks",
+    "description": "前端技能汇总 Frontend Knowledge Structure",
+    "stars": 10032
+  },
+  {
+    "name": "jquery/jquery-mobile",
+    "description": "jQuery Mobile Framework",
+    "stars": 10028
+  },
+  {
+    "name": "infernojs/inferno",
+    "description": "An extremely fast, React-like JavaScript library for building modern user interfaces",
+    "stars": 10009
+  },
+  {
+    "name": "linnovate/mean",
+    "description": "MEAN (Mongo, Express, Angular, Node) - A Simple, Scalable and Easy starting point for full stack javascript web development - utilizing many of the best practices we've found on the way",
+    "stars": 10008
+  },
+  {
+    "name": "RubaXa/Sortable",
+    "description": "Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery. Supports Meteor, AngularJS, React, Polymer, Knockout and any CSS library, e.g. Bootstrap.",
+    "stars": 10007
+  },
+  {
+    "name": "Flipboard/react-canvas",
+    "description": "High performance <canvas> rendering for React components",
+    "stars": 9972
+  },
+  {
+    "name": "avajs/ava",
+    "description": ":rocket: Futuristic JavaScript test runner",
+    "stars": 9971
+  },
+  {
+    "name": "storybooks/storybook",
+    "description": "📚 UI Component Dev Environment for React",
+    "stars": 9966
+  },
+  {
+    "name": "ampproject/amphtml",
+    "description": "AMP HTML source code, samples, and documentation.  See below for more info.",
+    "stars": 9952
+  },
+  {
+    "name": "jquery/jquery-ui",
+    "description": "The official jQuery user interface library.",
+    "stars": 9927
+  },
+  {
+    "name": "VerbalExpressions/JSVerbalExpressions",
+    "description": "JavaScript Regular expressions made easy",
+    "stars": 9917
+  },
+  {
+    "name": "facebook/draft-js",
+    "description": "A React framework for building text editors.",
+    "stars": 9783
+  },
+  {
+    "name": "keystonejs/keystone",
+    "description": "node.js cms and web app framework",
+    "stars": 9779
+  },
+  {
+    "name": "adobe-webplatform/Snap.svg",
+    "description": "The JavaScript library for modern SVG graphics.",
+    "stars": 9770
+  },
+  {
+    "name": "isagalaev/highlight.js",
+    "description": "Javascript syntax highlighter",
+    "stars": 9748
+  },
+  {
+    "name": "addyosmani/backbone-fundamentals",
+    "description": ":book: A creative-commons book on Backbone.js for beginners and advanced users alike",
+    "stars": 9734
+  },
+  {
+    "name": "browserstate/history.js",
+    "description": "History.js gracefully supports the HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers. Including continued support for data, titles, replaceState. Supports jQuery, MooTools and Prototype.  For HTML5 browsers this means that you can modify the URL directly, without needing to use hashes anymore. For HTML4 browsers it will revert back to using the old onhashchange functionality.",
+    "stars": 9732
+  },
+  {
+    "name": "philipwalton/solved-by-flexbox",
+    "description": "A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.",
+    "stars": 9728
+  },
+  {
+    "name": "jwagner/smartcrop.js",
+    "description": "Content aware image cropping",
+    "stars": 9671
+  },
+  {
+    "name": "react-bootstrap/react-bootstrap",
+    "description": "Bootstrap 3 components built with React",
+    "stars": 9664
+  },
+  {
+    "name": "selectize/selectize.js",
+    "description": "Selectize is the hybrid of a textbox and <select> box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.",
+    "stars": 9641
+  },
+  {
+    "name": "uxsolutions/bootstrap-datepicker",
+    "description": "A datepicker for twitter bootstrap (@twbs)",
+    "stars": 9625
+  },
+  {
+    "name": "sequelize/sequelize",
+    "description": "An easy-to-use multi SQL dialect ORM for Node.js",
+    "stars": 9612
+  },
+  {
+    "name": "VincentGarreau/particles.js",
+    "description": "A lightweight JavaScript library for creating particles",
+    "stars": 9603
+  },
+  {
+    "name": "wekan/wekan",
+    "description": "The open-source Trello-like kanban (built with Meteor)",
+    "stars": 9598
+  },
+  {
+    "name": "ruanyf/react-demos",
+    "description": "a collection of simple demos of React.js",
+    "stars": 9595
+  },
+  {
+    "name": "facebook/jest",
+    "description": "🃏 Painless JavaScript Testing.",
+    "stars": 9568
+  },
+  {
+    "name": "foreverjs/forever",
+    "description": "A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)",
+    "stars": 9568
+  },
+  {
+    "name": "erikras/react-redux-universal-hot-example",
+    "description": "A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform",
+    "stars": 9550
+  },
+  {
+    "name": "benweet/stackedit",
+    "description": "In-browser markdown editor",
+    "stars": 9550
+  },
+  {
+    "name": "fbsamples/f8app",
+    "description": "Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects.",
+    "stars": 9520
+  },
+  {
+    "name": "DrkSephy/es6-cheatsheet",
+    "description": "ES2015 [ES6] cheatsheet containing tips, tricks, best practices and code snippets",
+    "stars": 9514
+  },
+  {
+    "name": "marcuswestin/store.js",
+    "description": "Cross-browser storage for all use cases • Used across the web • See below for v2.0 news! ",
+    "stars": 9458
+  },
+  {
+    "name": "aurelia/framework",
+    "description": "The aurelia framework brings together all the required core aurelia libraries into a ready-to-go application-building platform.",
+    "stars": 9456
+  },
+  {
+    "name": "gionkunz/chartist-js",
+    "description": "Simple responsive charts",
+    "stars": 9444
+  },
+  {
+    "name": "amazeui/amazeui",
+    "description": "Amaze UI, a mobile-first and modular front-end framework.",
+    "stars": 9436
+  },
+  {
+    "name": "petehunt/webpack-howto",
+    "description": null,
+    "stars": 9385
+  },
+  {
+    "name": "cubiq/iscroll",
+    "description": "Smooth scrolling for the web",
+    "stars": 9380
+  },
+  {
+    "name": "prettier/prettier",
+    "description": "Prettier is an opinionated JavaScript formatter.",
+    "stars": 9334
+  },
+  {
+    "name": "Selz/plyr",
+    "description": "A simple HTML5, YouTube and Vimeo player",
+    "stars": 9319
+  },
+  {
+    "name": "yaronn/blessed-contrib",
+    "description": "Build terminal dashboards using ascii/ansi art and javascript",
+    "stars": 9307
+  },
+  {
+    "name": "dimsemenov/Magnific-Popup",
+    "description": "Light and responsive lightbox script with focus on performance.",
+    "stars": 9296
+  },
+  {
+    "name": "parkjs814/AlgorithmVisualizer",
+    "description": "Algorithm Visualizer",
+    "stars": 9241
+  },
+  {
+    "name": "mysqljs/mysql",
+    "description": "A pure node.js JavaScript Client implementing the MySql protocol.",
+    "stars": 9224
+  },
+  {
+    "name": "rollup/rollup",
+    "description": "Next-generation ES6 module bundler",
+    "stars": 9218
+  },
+  {
+    "name": "airbnb/enzyme",
+    "description": "JavaScript Testing utilities for React",
+    "stars": 9215
+  },
+  {
+    "name": "WickyNilliams/headroom.js",
+    "description": "Give your pages some headroom. Hide your header until you need it",
+    "stars": 9097
+  },
+  {
+    "name": "scottjehl/picturefill",
+    "description": "A responsive image polyfill for <picture>, srcset, sizes, and more",
+    "stars": 9089
+  },
+  {
+    "name": "developit/preact",
+    "description": "⚛️ Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.",
+    "stars": 9069
+  },
+  {
+    "name": "gatsbyjs/gatsby",
+    "description": "⚛️📄🚀 Blazing fast React.js static site generator",
+    "stars": 9052
+  },
+  {
+    "name": "localForage/localForage",
+    "description": "💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.",
+    "stars": 9051
+  },
+  {
+    "name": "DmitryBaranovskiy/raphael",
+    "description": "JavaScript Vector Library",
+    "stars": 9032
+  },
+  {
+    "name": "peachananr/onepage-scroll",
+    "description": "Create an Apple-like one page scroller website (iPhone 5S website) with One Page Scroll plugin",
+    "stars": 9017
+  },
+  {
+    "name": "FormidableLabs/webpack-dashboard",
+    "description": "A CLI dashboard for webpack dev server",
+    "stars": 9012
+  },
+  {
+    "name": "Bilibili/flv.js",
+    "description": "HTML5 FLV Player",
+    "stars": 8979
+  },
+  {
+    "name": "ptmt/react-native-macos",
+    "description": "React Native for macOS",
+    "stars": 8964
+  },
+  {
+    "name": "buunguyen/octotree",
+    "description": "Code tree for GitHub",
+    "stars": 8880
+  },
+  {
+    "name": "mobxjs/mobx",
+    "description": "Simple, scalable state management.",
+    "stars": 8837
+  },
+  {
+    "name": "strongloop/loopback",
+    "description": "LoopBack makes it easy to build modern applications that require complex integrations.",
+    "stars": 8806
+  },
+  {
+    "name": "alsotang/node-lessons",
+    "description": ":closed_book:《Node.js 包教不包会》 by alsotang",
+    "stars": 8794
+  },
+  {
+    "name": "pouchdb/pouchdb",
+    "description": ":koala: - PouchDB is a pocket-sized database.",
+    "stars": 8791
+  },
+  {
+    "name": "chenglou/react-motion",
+    "description": "A spring that solves your animation problems.",
+    "stars": 8739
+  },
+  {
+    "name": "Automattic/wp-calypso",
+    "description": "The new JavaScript- and API-powered WordPress.com",
+    "stars": 8709
+  },
+  {
+    "name": "fgnass/spin.js",
+    "description": "A spinning activity indicator",
+    "stars": 8707
+  },
+  {
+    "name": "facebook/relay",
+    "description": "Relay is a JavaScript framework for building data-driven React applications.",
+    "stars": 8696
+  },
+  {
+    "name": "davezuko/react-redux-starter-kit",
+    "description": "Get started with React, Redux, and React-Router.",
+    "stars": 8680
+  },
+  {
+    "name": "gorhill/uBlock",
+    "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+    "stars": 8661
+  },
+  {
+    "name": "BrowserSync/browser-sync",
+    "description": "Keep multiple browsers & devices in sync when building websites. http://browsersync.io",
+    "stars": 8636
+  },
+  {
+    "name": "sdelements/lets-chat",
+    "description": "Self-hosted chat app for small teams",
+    "stars": 8560
+  },
+  {
+    "name": "karma-runner/karma",
+    "description": "Spectacular Test Runner for JavaScript",
+    "stars": 8497
+  },
+  {
+    "name": "janpaepke/ScrollMagic",
+    "description": "The javascript library for magical scroll interactions.",
+    "stars": 8428
+  },
+  {
+    "name": "maxwellito/vivus",
+    "description": "JavaScript library to make drawing animation on SVG",
+    "stars": 8389
+  },
+  {
+    "name": "NUKnightLab/TimelineJS",
+    "description": "TimelineJS: A Storytelling Timeline built in JavaScript. ",
+    "stars": 8351
+  },
+  {
+    "name": "GoogleChrome/lighthouse",
+    "description": "Auditing, performance metrics, and best practices for Progressive Web Apps",
+    "stars": 8336
+  },
+  {
+    "name": "imakewebthings/waypoints",
+    "description": "Waypoints is a library that makes it easy to execute a function whenever you scroll to an element.",
+    "stars": 8310
+  },
+  {
+    "name": "niklasvh/html2canvas",
+    "description": "Screenshots with JavaScript",
+    "stars": 8275
+  },
+  {
+    "name": "daylerees/colour-schemes",
+    "description": "Colour schemes for a variety of editors created by Dayle Rees.",
+    "stars": 8260
+  },
+  {
+    "name": "kesenhoo/android-training-course-in-chinese",
+    "description": "Android官方培训课程中文版",
+    "stars": 8256
+  },
+  {
+    "name": "carhartl/jquery-cookie",
+    "description": "No longer maintained, superseded by JS Cookie:",
+    "stars": 8189
+  },
+  {
+    "name": "gollum/gollum",
+    "description": "A simple, Git-powered wiki with a sweet API and local frontend.",
+    "stars": 8184
+  },
+  {
+    "name": "systemjs/systemjs",
+    "description": "Dynamic ES module loader",
+    "stars": 8179
+  },
+  {
+    "name": "knockout/knockout",
+    "description": "Knockout makes it easier to create rich, responsive UIs with JavaScript",
+    "stars": 8158
+  },
+  {
+    "name": "aFarkas/html5shiv",
+    "description": "This script is the defacto way to enable use of HTML5 sectioning elements in legacy Internet Explorer.",
+    "stars": 8112
+  },
+  {
+    "name": "mgonto/restangular",
+    "description": "AngularJS service to handle Rest API Restful Resources properly and easily",
+    "stars": 8112
+  },
+  {
+    "name": "shichuan/javascript-patterns",
+    "description": "JavaScript Patterns",
+    "stars": 8104
+  },
+  {
+    "name": "tj/co",
+    "description": "The ultimate generator based flow-control goodness for nodejs (supports thunks, promises, etc)",
+    "stars": 8055
+  },
+  {
+    "name": "stylus/stylus",
+    "description": "Expressive, robust, feature-rich CSS language built for nodejs",
+    "stars": 8041
+  },
+  {
+    "name": "MrRio/jsPDF",
+    "description": "Client-side JavaScript PDF generation for everyone.",
+    "stars": 8024
+  },
+  {
+    "name": "paularmstrong/normalizr",
+    "description": "Normalizes nested JSON according to a schema",
+    "stars": 8010
+  },
+  {
+    "name": "sindresorhus/pageres",
+    "description": "Capture website screenshots",
+    "stars": 7974
+  },
+  {
+    "name": "ramda/ramda",
+    "description": ":ram: Practical functional Javascript",
+    "stars": 7963
+  },
+  {
+    "name": "handsontable/handsontable",
+    "description": "Handsontable Community Edition - a JavaScript/HTML5 Spreadsheet Library for Developers",
+    "stars": 7961
+  },
+  {
+    "name": "thejameskyle/the-super-tiny-compiler",
+    "description": ":snowman: Possibly the smallest compiler ever",
+    "stars": 7940
+  },
+  {
+    "name": "swagger-api/swagger-ui",
+    "description": "Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.",
+    "stars": 7912
+  },
+  {
+    "name": "kangax/fabric.js",
+    "description": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser",
+    "stars": 7888
+  },
+  {
+    "name": "javve/list.js",
+    "description": "The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.",
+    "stars": 7879
+  },
+  {
+    "name": "tj/commander.js",
+    "description": "node.js command-line interfaces made easy",
+    "stars": 7854
+  },
+  {
+    "name": "AngularClass/angular-starter",
+    "description": ":tada: An Angular Starter kit featuring Angular 4 (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes, AoT via ngc), Karma, Protractor, Jasmine, Istanbul, TypeScript 2, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack 2 by @AngularClass",
+    "stars": 7846
+  },
+  {
+    "name": "guillaumepotier/Parsley.js",
+    "description": "Validate your forms, frontend, without writing a single line of javascript",
+    "stars": 7820
+  },
+  {
+    "name": "goldfire/howler.js",
+    "description": "Javascript audio library for the modern web.",
+    "stars": 7814
+  },
+  {
+    "name": "chrisaljoudi/uBlock",
+    "description": "uBlock: a fast, lightweight, and lean blocker for Chrome, Firefox, and Safari.",
+    "stars": 7806
+  },
+  {
+    "name": "arasatasaygin/is.js",
+    "description": "Micro check library",
+    "stars": 7798
+  },
+  {
+    "name": "iissnan/hexo-theme-next",
+    "description": "Elegant theme for Hexo. ",
+    "stars": 7756
+  },
+  {
+    "name": "Matt-Esch/virtual-dom",
+    "description": "A Virtual DOM and diffing algorithm",
+    "stars": 7744
+  },
+  {
+    "name": "hapijs/hapi",
+    "description": "Server Framework  for Node.js",
+    "stars": 7744
+  },
+  {
+    "name": "paperjs/paper.js",
+    "description": "The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey",
+    "stars": 7735
+  },
+  {
+    "name": "hacksalot/HackMyResume",
+    "description": "Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.",
+    "stars": 7724
+  },
+  {
+    "name": "NodeRedis/node_redis",
+    "description": "redis client for node",
+    "stars": 7722
+  },
+  {
+    "name": "redux-saga/redux-saga",
+    "description": "An alternative side effect model for Redux apps",
+    "stars": 7703
+  },
+  {
+    "name": "ccampbell/mousetrap",
+    "description": "Simple library for handling keyboard shortcuts in Javascript",
+    "stars": 7689
+  },
+  {
+    "name": "harthur/brain",
+    "description": "[UNMAINTAINED] Neural networks in JavaScript",
+    "stars": 7666
+  },
+  {
+    "name": "nodemailer/nodemailer",
+    "description": "✉️ Send e-mails with Node.JS – easy as cake!",
+    "stars": 7637
+  },
+  {
+    "name": "chriso/validator.js",
+    "description": "String validation",
+    "stars": 7631
+  },
+  {
+    "name": "Netflix/falcor",
+    "description": "A JavaScript library for efficient data fetching",
+    "stars": 7624
+  },
+  {
+    "name": "nswbmw/N-blog",
+    "description": "一起学 Node.js",
+    "stars": 7611
+  },
+  {
+    "name": "rwaldron/johnny-five",
+    "description": "JavaScript Robotics and IoT programming framework, developed at Bocoup.",
+    "stars": 7598
+  },
+  {
+    "name": "afaqurk/linux-dash",
+    "description": "A beautiful web dashboard for Linux",
+    "stars": 7578
+  },
+  {
+    "name": "jquery-validation/jquery-validation",
+    "description": "jQuery Validation Plugin library sources",
+    "stars": 7576
+  },
+  {
+    "name": "reactjs/react-redux",
+    "description": "Official React bindings for Redux",
+    "stars": 7562
+  },
+  {
+    "name": "MithrilJS/mithril.js",
+    "description": "A Javascript Framework for Building Brilliant Applications (development repo)",
+    "stars": 7534
+  },
+  {
+    "name": "tmpvar/jsdom",
+    "description": "A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js",
+    "stars": 7517
+  },
+  {
+    "name": "eslint/eslint",
+    "description": "A fully pluggable tool for identifying and reporting on patterns in JavaScript.",
+    "stars": 7511
+  },
+  {
+    "name": "ejci/favico.js",
+    "description": "Make use of your favicon with badges, images or videos",
+    "stars": 7503
+  },
+  {
+    "name": "NetEase/pomelo",
+    "description": "A fast,scalable,distributed game server framework for Node.js.",
+    "stars": 7503
+  },
+  {
+    "name": "gaearon/redux-devtools",
+    "description": "DevTools for Redux with hot reloading, action replay, and customizable UI",
+    "stars": 7477
+  },
+  {
+    "name": "winstonjs/winston",
+    "description": "a multi-transport async logging library for node.js",
+    "stars": 7461
+  },
+  {
+    "name": "qrohlf/trianglify",
+    "description": "Algorithmically generated triangle art",
+    "stars": 7457
+  },
+  {
+    "name": "kamens/jQuery-menu-aim",
+    "description": "jQuery plugin to fire events when user's cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon's.",
+    "stars": 7451
+  },
+  {
+    "name": "mishoo/UglifyJS",
+    "description": "JavaScript parser / mangler / compressor / beautifier library for NodeJS",
+    "stars": 7432
+  },
+  {
+    "name": "facebook/yoga",
+    "description": "Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.",
+    "stars": 7432
+  },
+  {
+    "name": "chmln/flatpickr",
+    "description": "lightweight and powerful datetimepicker with no dependencies",
+    "stars": 7404
+  },
+  {
+    "name": "danialfarid/ng-file-upload",
+    "description": "Lightweight Angular directive to upload files with optional FileAPI shim for cross browser support",
+    "stars": 7388
+  },
+  {
+    "name": "marmelab/gremlins.js",
+    "description": "Monkey testing library for web apps and Node.js",
+    "stars": 7351
+  },
+  {
+    "name": "docker/kitematic",
+    "description": "Visual Docker Container Management on Mac & Windows",
+    "stars": 7291
+  },
+  {
+    "name": "rstacruz/jquery.transit",
+    "description": "Super-smooth CSS3 transformations and transitions for jQuery",
+    "stars": 7291
+  },
+  {
+    "name": "vuejs/vuex",
+    "description": "Centralized State Management for Vue.js.",
+    "stars": 7284
+  },
+  {
+    "name": "google/traceur-compiler",
+    "description": "Traceur is a JavaScript.next-to-JavaScript-of-today compiler",
+    "stars": 7257
+  },
+  {
+    "name": "justjavac/awesome-wechat-weapp",
+    "description": "微信小程序开发资源汇总 :100:",
+    "stars": 7226
+  },
+  {
+    "name": "elastic/kibana",
+    "description": ":bar_chart: Kibana analytics and search dashboard for Elasticsearch",
+    "stars": 7219
+  },
+  {
+    "name": "jshint/jshint",
+    "description": "JSHint is a tool that helps to detect errors and potential problems in your JavaScript code",
+    "stars": 7192
+  },
+  {
+    "name": "jacomyal/sigma.js",
+    "description": "A JavaScript library dedicated to graph drawing",
+    "stars": 7192
+  },
+  {
+    "name": "dthree/cash",
+    "description": "Cross-platform Linux commands in ES6",
+    "stars": 7188
+  },
+  {
+    "name": "NodeBB/NodeBB",
+    "description": "Node.js based forum software built for the modern web",
+    "stars": 7176
+  },
+  {
+    "name": "purifycss/purifycss",
+    "description": "Remove unused CSS. Also works with single-page apps.",
+    "stars": 7162
+  },
+  {
+    "name": "relax/relax",
+    "description": "New generation CMS on top of React, Redux and GraphQL",
+    "stars": 7141
+  },
+  {
+    "name": "senchalabs/connect",
+    "description": "Connect is a middleware layer for Node.js",
+    "stars": 7125
+  },
+  {
+    "name": "kkga/spacegray",
+    "description": "A Hyperminimal UI Theme for Sublime Text",
+    "stars": 7118
+  },
+  {
+    "name": "marionettejs/backbone.marionette",
+    "description": "The Backbone Framework",
+    "stars": 7112
+  },
+  {
+    "name": "nodejitsu/node-http-proxy",
+    "description": "A full-featured http proxy for node.js",
+    "stars": 7106
+  },
+  {
+    "name": "HubSpot/tether",
+    "description": " A positioning engine to make overlays, tooltips and dropdowns better #hubspot-open-source",
+    "stars": 7093
+  },
+  {
+    "name": "FredrikNoren/ungit",
+    "description": "The easiest way to use git. On any platform. Anywhere.",
+    "stars": 7087
+  },
+  {
+    "name": "matthieua/WOW",
+    "description": "Reveal CSS animation as you scroll down a page",
+    "stars": 7077
+  },
+  {
+    "name": "JedWatson/react-select",
+    "description": "A Select control built with and for React JS",
+    "stars": 7026
+  },
+  {
+    "name": "mozilla/BrowserQuest",
+    "description": "A HTML5/JavaScript multiplayer game experiment",
+    "stars": 7019
+  },
+  {
+    "name": "karpathy/convnetjs",
+    "description": "Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.",
+    "stars": 7014
+  },
+  {
+    "name": "svg/svgo",
+    "description": "Nodejs-based tool for optimizing SVG vector graphics files.",
+    "stars": 6978
+  },
+  {
+    "name": "apple/swift-evolution",
+    "description": "This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.",
+    "stars": 6957
+  },
+  {
+    "name": "geeeeeeeeek/electronic-wechat",
+    "description": ":speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.",
+    "stars": 6895
+  },
+  {
+    "name": "nosir/cleave.js",
+    "description": "Format input text content when you are typing...",
+    "stars": 6882
+  },
+  {
+    "name": "FineUploader/fine-uploader",
+    "description": "Multiple file upload plugin with image previews, drag and drop, progress bars. S3 and Azure support, image scaling, form support, chunking, resume, pause, and tons of other features.",
+    "stars": 6861
+  },
+  {
+    "name": "mailcheck/mailcheck",
+    "description": "Reduce misspelled email addresses in your web apps.",
+    "stars": 6849
+  },
+  {
+    "name": "amsul/pickadate.js",
+    "description": "(Looking for Project Maintainers) The mobile-friendly, responsive, and lightweight jQuery date & time input picker.",
+    "stars": 6845
+  },
+  {
+    "name": "jhipster/generator-jhipster",
+    "description": "Open Source application generator for creating Spring Boot + Angular projects in seconds!",
+    "stars": 6832
+  },
+  {
+    "name": "douglascrockford/JSON-js",
+    "description": "JSON in JavaScript",
+    "stars": 6820
+  },
+  {
+    "name": "styled-components/styled-components",
+    "description": "Visual primitives for the component age 💅",
+    "stars": 6787
+  },
+  {
+    "name": "reactide/reactide",
+    "description": "Reactide is the first dedicated IDE for React web application development. http://reactide.io",
+    "stars": 6765
+  },
+  {
+    "name": "reactjs/reselect",
+    "description": "Selector library for Redux",
+    "stars": 6747
+  },
+  {
+    "name": "gaearon/react-hot-loader",
+    "description": "Tweak React components in real time.",
+    "stars": 6729
+  },
+  {
+    "name": "dangrossman/bootstrap-daterangepicker",
+    "description": "Date range picker component for Bootstrap",
+    "stars": 6725
+  },
+  {
+    "name": "c3js/c3",
+    "description": "A D3-based reusable chart library",
+    "stars": 6691
+  },
+  {
+    "name": "Famous/famous",
+    "description": "This repo is being deprecated. Please check out http://github.com/famous/engine",
+    "stars": 6682
+  },
+  {
+    "name": "ruanyf/es6tutorial",
+    "description": "《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。",
+    "stars": 6678
+  },
+  {
+    "name": "restify/node-restify",
+    "description": "node.js REST framework specifically meant for web service APIs",
+    "stars": 6668
+  },
+  {
+    "name": "seajs/seajs",
+    "description": "A Module Loader for the Web",
+    "stars": 6664
+  },
+  {
+    "name": "akveo/blur-admin",
+    "description": "Angular Bootstrap Admin Panel Framework",
+    "stars": 6661
+  },
+  {
+    "name": "fullcalendar/fullcalendar",
+    "description": "Full-sized drag & drop event calendar (jQuery plugin)",
+    "stars": 6659
+  },
+  {
+    "name": "hpneo/gmaps",
+    "description": "the easiest way to use Google Maps",
+    "stars": 6655
+  },
+  {
+    "name": "giakki/uncss",
+    "description": "Remove unused styles from CSS",
+    "stars": 6640
+  },
+  {
+    "name": "airbnb/react-sketchapp",
+    "description": "render React components to Sketch ⚛️💎",
+    "stars": 6628
+  },
+  {
+    "name": "flightjs/flight",
+    "description": "A component-based, event-driven JavaScript framework from Twitter",
+    "stars": 6608
+  },
+  {
+    "name": "mozilla/metrics-graphics",
+    "description": "A library optimized for concise and principled data graphics and layouts.",
+    "stars": 6599
+  },
+  {
+    "name": "xing/wysihtml5",
+    "description": "Open source rich text editor based on HTML5 and the progressive-enhancement approach. Uses a sophisticated security concept and aims to generate fully valid HTML5 markup by preventing unmaintainable tag soups and inline styles.",
+    "stars": 6592
+  },
+  {
+    "name": "shekhargulati/52-technologies-in-2016",
+    "description": "Let's learn a new technology every week. A new technology blog every Sunday in 2016.",
+    "stars": 6584
+  },
+  {
+    "name": "CodeSeven/toastr",
+    "description": "Simple javascript toast notifications",
+    "stars": 6573
+  },
+  {
+    "name": "casperjs/casperjs",
+    "description": "Navigation scripting and testing utility for PhantomJS and SlimerJS",
+    "stars": 6561
+  },
+  {
+    "name": "facebook/nuclide",
+    "description": "An open IDE for web and native mobile development, built on top of Atom ",
+    "stars": 6559
+  },
+  {
+    "name": "angular/protractor",
+    "description": "E2E test framework for Angular apps",
+    "stars": 6542
+  },
+  {
+    "name": "Mango/slideout",
+    "description": "A touch slideout navigation menu for your mobile web apps.",
+    "stars": 6519
+  },
+  {
+    "name": "coryhouse/react-slingshot",
+    "description": "React + Redux starter kit / boilerplate with Babel, hot reloading, testing, linting and a working example app, all built in",
+    "stars": 6509
+  },
+  {
+    "name": "nlp-compromise/compromise",
+    "description": "Natural language processing in javascript     ",
+    "stars": 6417
+  },
+  {
+    "name": "louischatriot/nedb",
+    "description": "The JavaScript Database, for Node.js, nw.js, electron and the browser",
+    "stars": 6412
+  },
+  {
+    "name": "graphql/graphql-js",
+    "description": "A reference implementation of GraphQL for JavaScript",
+    "stars": 6399
+  },
+  {
+    "name": "mishoo/UglifyJS2",
+    "description": " JavaScript parser / mangler / compressor / beautifier toolkit",
+    "stars": 6397
+  },
+  {
+    "name": "SeleniumHQ/selenium",
+    "description": "A browser automation framework and ecosystem.",
+    "stars": 6372
+  },
+  {
+    "name": "nightwatchjs/nightwatch",
+    "description": "Automated testing and continous integration framework based on node.js and selenium webdriver",
+    "stars": 6345
+  },
+  {
+    "name": "desandro/imagesloaded",
+    "description": ":camera: JavaScript is all like \"You images done yet or what?\"",
+    "stars": 6343
+  },
+  {
+    "name": "maxogden/art-of-node",
+    "description": ":snowflake: a short introduction to node.js",
+    "stars": 6329
+  },
+  {
+    "name": "rethinkdb/horizon",
+    "description": "Horizon is a realtime, open-source backend for JavaScript apps.",
+    "stars": 6327
+  },
+  {
+    "name": "NaturalNode/natural",
+    "description": "general natural language facilities for node",
+    "stars": 6314
+  },
+  {
+    "name": "twitter/twemoji",
+    "description": "Twitter Emoji for Everyone",
+    "stars": 6291
+  },
+  {
+    "name": "feathersjs/feathers",
+    "description": "A REST and realtime API layer for modern applications.",
+    "stars": 6286
+  },
+  {
+    "name": "howdyai/botkit",
+    "description": "Botkit is a toolkit for making bot applications",
+    "stars": 6279
+  },
+  {
+    "name": "dularion/streama",
+    "description": "It's like Netflix, but self-hosted! http://dularion.github.io/streama/",
+    "stars": 6270
+  },
+  {
+    "name": "aFarkas/lazysizes",
+    "description": "High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.",
+    "stars": 6266
+  },
+  {
+    "name": "OAI/OpenAPI-Specification",
+    "description": "The OpenAPI Specification Repository",
+    "stars": 6249
+  },
+  {
+    "name": "plotly/plotly.js",
+    "description": "The open source JavaScript graphing library that powers plotly",
+    "stars": 6235
+  },
+  {
+    "name": "ether/etherpad-lite",
+    "description": "Etherpad: Really real-time collaborative document editing",
+    "stars": 6229
+  },
+  {
+    "name": "briangonzalez/jquery.adaptive-backgrounds.js",
+    "description": "A jQuery plugin for extracting the dominant color from images and applying the color to their parent.",
+    "stars": 6210
+  },
+  {
+    "name": "jsdoc3/jsdoc",
+    "description": "An API documentation generator for JavaScript.",
+    "stars": 6204
+  },
+  {
+    "name": "highcharts/highcharts",
+    "description": "Highcharts JS, the JavaScript charting framework",
+    "stars": 6203
+  },
+  {
+    "name": "thebird/Swipe",
+    "description": "Swipe is the most accurate touch slider.",
+    "stars": 6201
+  },
+  {
+    "name": "erikras/redux-form",
+    "description": "A Higher Order Component using react-redux to keep form state in a Redux store",
+    "stars": 6183
+  },
+  {
+    "name": "ducksboard/gridster.js",
+    "description": "gridster.js is a jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns ",
+    "stars": 6182
+  },
+  {
+    "name": "Microsoft/ChakraCore",
+    "description": "ChakraCore is the core part of the Chakra Javascript engine that powers Microsoft Edge",
+    "stars": 6161
+  },
+  {
+    "name": "taye/interact.js",
+    "description": "JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE8+)",
+    "stars": 6154
+  },
+  {
+    "name": "zeroclipboard/zeroclipboard",
+    "description": "The ZeroClipboard library provides an easy way to copy text to the clipboard using an invisible Adobe Flash movie and a JavaScript interface.",
+    "stars": 6150
+  },
+  {
+    "name": "sbstjn/timesheet.js",
+    "description": "JavaScript library for HTML5 & CSS3 time sheets",
+    "stars": 6126
+  },
+  {
+    "name": "react-toolbox/react-toolbox",
+    "description": "A set of React components implementing Google's Material Design specification with the power of CSS Modules",
+    "stars": 6099
+  },
+  {
+    "name": "gotwarlost/istanbul",
+    "description": "Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests and browser tests. Built for scale.",
+    "stars": 6092
+  },
+  {
+    "name": "mgcrea/angular-strap",
+    "description": "AngularJS 1.2+ native directives for Bootstrap 3.",
+    "stars": 6071
+  },
+  {
+    "name": "angular-app/angular-app",
+    "description": "Reference application for AngularJS",
+    "stars": 6062
+  },
+  {
+    "name": "chjj/blessed",
+    "description": "A high-level terminal interface library for node.js.",
+    "stars": 6048
+  },
+  {
+    "name": "greensock/GreenSock-JS",
+    "description": "Public repository for GreenSock's JavaScript libraries like GSAP. See http://www.greensock.com",
+    "stars": 6047
+  },
+  {
+    "name": "CreateJS/EaselJS",
+    "description": "The Easel Javascript library provides a full, hierarchical display list, a core interaction model, and helper classes to make working with the HTML5 Canvas element much easier.",
+    "stars": 6045
+  },
+  {
+    "name": "mleibman/SlickGrid",
+    "description": "A lightning fast JavaScript grid/spreadsheet",
+    "stars": 6044
+  },
+  {
+    "name": "poteto/hiring-without-whiteboards",
+    "description": "⭐️  Companies that don't have a broken hiring process",
+    "stars": 6032
+  },
+  {
+    "name": "vladikoff/chromeos-apk",
+    "description": "☢️  Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows.",
+    "stars": 6023
+  },
+  {
+    "name": "shutterstock/rickshaw",
+    "description": " JavaScript toolkit for creating interactive real-time graphs",
+    "stars": 6015
+  },
+  {
+    "name": "gnab/remark",
+    "description": "A simple, in-browser, markdown-driven slideshow tool.",
+    "stars": 6011
+  },
+  {
+    "name": "jakiestfu/Snap.js",
+    "description": "A Library for creating beautiful mobile shelfs in Javascript (Facebook and Path style side menus)",
+    "stars": 6003
+  },
+  {
+    "name": "gabrielbull/react-desktop",
+    "description": "React UI Components for macOS Sierra and Windows 10",
+    "stars": 5996
+  },
+  {
+    "name": "reactjs/react-router-redux",
+    "description": "Ruthlessly simple bindings to keep react-router and redux in sync",
+    "stars": 5988
+  },
+  {
+    "name": "js-cookie/js-cookie",
+    "description": "A simple, lightweight JavaScript API for handling browser cookies",
+    "stars": 5970
+  },
+  {
+    "name": "dcloudio/mui",
+    "description": "最接近原生APP体验的高性能框架",
+    "stars": 5943
+  },
+  {
+    "name": "novus/nvd3",
+    "description": "A reusable charting library written in d3.js",
+    "stars": 5942
+  },
+  {
+    "name": "shipyard/shipyard",
+    "description": "Composable Docker Management",
+    "stars": 5908
+  },
+  {
+    "name": "brunch/brunch",
+    "description": ":fork_and_knife: Fast front-end web app build tool with simple declarative config, seamless incremental compilation for rapid development, an opinionated pipeline and workflow, and core support for source maps.",
+    "stars": 5904
+  },
+  {
+    "name": "silviomoreto/bootstrap-select",
+    "description": "Bootstrap-select is a jQuery plugin that utilizes Bootstrap's dropdown.js to style and bring additional functionality to standard select elements.",
+    "stars": 5902
+  },
+  {
+    "name": "Nickersoft/push.js",
+    "description": "A compact, cross-browser solution for the JavaScript Notifications API",
+    "stars": 5895
+  },
+  {
+    "name": "bodymovin/bodymovin",
+    "description": "after effects to html library",
+    "stars": 5885
+  },
+  {
+    "name": "Automattic/kue",
+    "description": "Kue is a priority job queue backed by redis, built for node.js.",
+    "stars": 5878
+  },
+  {
+    "name": "Khan/KaTeX",
+    "description": "Fast math typesetting for the web.",
+    "stars": 5878
+  },
+  {
+    "name": "typicode/hotel",
+    "description": ":love_hotel: A simple process manager for developers. Start apps from your browser and access them using local .dev domains",
+    "stars": 5859
+  },
+  {
+    "name": "huluoyang/freecodecamp.cn",
+    "description": "随着FCC中文社区的快速发展和更多小伙伴的崛起，此项目已从个人项目升级到团队项目。详情请移步：",
+    "stars": 5858
+  },
+  {
+    "name": "cnodejs/nodeclub",
+    "description": ":baby_chick:Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统",
+    "stars": 5856
+  },
+  {
+    "name": "evilstreak/markdown-js",
+    "description": "A Markdown parser for javascript",
+    "stars": 5845
+  },
+  {
+    "name": "shelljs/shelljs",
+    "description": ":shell: Portable Unix shell commands for Node.js",
+    "stars": 5841
+  },
+  {
+    "name": "yeoman/generator-angular",
+    "description": "Yeoman generator for AngularJS",
+    "stars": 5840
+  },
+  {
+    "name": "SheetJS/js-xlsx",
+    "description": ":green_book: SheetJS Community Edition -- Spreadsheet Parser and Writer",
+    "stars": 5820
+  },
+  {
+    "name": "segmentio/metalsmith",
+    "description": "An extremely simple, pluggable static site generator.",
+    "stars": 5810
+  },
+  {
+    "name": "auchenberg/volkswagen",
+    "description": ":see_no_evil: Volkswagen detects when your tests are being run in a CI server, and makes them pass.",
+    "stars": 5809
+  },
+  {
+    "name": "summernote/summernote",
+    "description": "Super simple WYSIWYG editor",
+    "stars": 5795
+  },
+  {
+    "name": "mozilla/togetherjs",
+    "description": "A service for your website that makes it surprisingly easy to collaborate in real-time.",
+    "stars": 5789
+  },
+  {
+    "name": "angular-fullstack/generator-angular-fullstack",
+    "description": "Yeoman generator for AngularJS with an Express server",
+    "stars": 5784
+  },
+  {
+    "name": "thejameskyle/itsy-bitsy-data-structures",
+    "description": ":european_castle: All the things you didn't know you wanted to know about data structures",
+    "stars": 5765
+  },
+  {
+    "name": "wenzhixin/bootstrap-table",
+    "description": "An extended Bootstrap table with radio, checkbox, sort, pagination, and other added features. (supports twitter bootstrap v2 and v3) ",
+    "stars": 5750
+  },
+  {
+    "name": "es-shims/es5-shim",
+    "description": "ECMAScript 5 compatibility shims for legacy (and modern) JavaScript engines",
+    "stars": 5730
+  },
+  {
+    "name": "chentsulin/electron-react-boilerplate",
+    "description": "Live editing development on desktop app",
+    "stars": 5727
+  },
+  {
+    "name": "madrobby/keymaster",
+    "description": "A simple micro-library for defining and  dispatching keyboard shortcuts. It has no dependencies.",
+    "stars": 5708
+  },
+  {
+    "name": "square/crossfilter",
+    "description": "Fast n-dimensional filtering and grouping of records.",
+    "stars": 5677
+  },
+  {
+    "name": "mongodb/node-mongodb-native",
+    "description": "Mongo DB Native NodeJS Driver",
+    "stars": 5654
+  },
+  {
+    "name": "breach/breach_core",
+    "description": "A Browser written in JS. Free. Modular. Hackable.",
+    "stars": 5649
+  },
+  {
+    "name": "Laverna/laverna",
+    "description": "Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.",
+    "stars": 5638
+  },
+  {
+    "name": "infinitered/reactotron",
+    "description": "A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.",
+    "stars": 5631
+  },
+  {
+    "name": "eligrey/FileSaver.js",
+    "description": "An HTML5 saveAs() FileSaver implementation",
+    "stars": 5604
+  },
+  {
+    "name": "dc-js/dc.js",
+    "description": "Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js",
+    "stars": 5599
+  },
+  {
+    "name": "lokesh/color-thief",
+    "description": "Grabs the dominant color or a representative color palette from an image. Uses javascript and canvas.",
+    "stars": 5593
+  },
+  {
+    "name": "typekit/webfontloader",
+    "description": "Web Font Loader gives you added control when using linked fonts via @font-face.",
+    "stars": 5569
+  },
+  {
+    "name": "bvaughn/react-virtualized",
+    "description": "React components for efficiently rendering large lists and tabular data",
+    "stars": 5561
+  },
+  {
+    "name": "stubbornella/oocss",
+    "description": "Object Oriented CSS Framework",
+    "stars": 5545
+  },
+  {
+    "name": "vitalets/x-editable",
+    "description": "In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery",
+    "stars": 5541
+  },
+  {
+    "name": "VulcanJS/Vulcan",
+    "description": "🌋 A toolkit to quickly build apps with React, GraphQL & Meteor",
+    "stars": 5537
+  },
+  {
+    "name": "kimmobrunfeldt/progressbar.js",
+    "description": "Responsive and slick progress bars ",
+    "stars": 5519
+  },
+  {
+    "name": "processing/p5.js",
+    "description": "p5.js is a JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing. http://twitter.com/p5xjs —",
+    "stars": 5502
+  },
+  {
+    "name": "react-dnd/react-dnd",
+    "description": "Drag and Drop for React",
+    "stars": 5484
+  },
+  {
+    "name": "recharts/recharts",
+    "description": "Redefined chart library built with React and D3",
+    "stars": 5452
+  },
+  {
+    "name": "GoogleChrome/chrome-app-samples",
+    "description": "Chrome Apps",
+    "stars": 5430
+  },
+  {
+    "name": "aframevr/aframe",
+    "description": ":a: web framework for building virtual reality experiences.",
+    "stars": 5421
+  },
+  {
+    "name": "Eonasdan/bootstrap-datetimepicker",
+    "description": "Date/time picker widget based on twitter bootstrap",
+    "stars": 5416
+  },
+  {
+    "name": "jaredreich/notie",
+    "description": "a clean and simple notification, input, and selection suite for javascript, with no dependencies",
+    "stars": 5407
+  },
+  {
+    "name": "LeaVerou/awesomplete",
+    "description": "Ultra lightweight, usable, beautiful autocomplete with zero dependencies.",
+    "stars": 5404
+  },
+  {
+    "name": "metabase/metabase",
+    "description": "The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:",
+    "stars": 5396
+  },
+  {
+    "name": "liabru/matter-js",
+    "description": "a 2D rigid body physics engine for the web ▲● ■",
+    "stars": 5374
+  },
+  {
+    "name": "joemccann/dillinger",
+    "description": "The last Markdown editor, ever.",
+    "stars": 5369
+  },
+  {
+    "name": "flot/flot",
+    "description": "Attractive JavaScript charts for jQuery",
+    "stars": 5330
+  },
+  {
+    "name": "ExactTarget/fuelux",
+    "description": "Extends Twitter Bootstrap with additional lightweight JavaScript controls. Easy to install, customize, update, and optimize. All functionality covered by live documentation and unit tests.",
+    "stars": 5323
+  },
+  {
+    "name": "JedWatson/classnames",
+    "description": "A simple javascript utility for conditionally joining classNames together",
+    "stars": 5314
+  },
+  {
+    "name": "vuejs/vue-router",
+    "description": "The official router for Vue.js.",
+    "stars": 5298
+  },
+  {
+    "name": "olton/Metro-UI-CSS",
+    "description": "CSS styles for build Windows 8 Metro UI stylable interface",
+    "stars": 5297
+  },
+  {
+    "name": "deepstreamIO/deepstream.io",
+    "description": "deepstream.io server",
+    "stars": 5281
+  },
+  {
+    "name": "leanote/leanote",
+    "description": "Not Just A Notepad! (golang + mongodb) http://leanote.org",
+    "stars": 5268
+  },
+  {
+    "name": "ractivejs/ractive",
+    "description": "Next-generation DOM manipulation",
+    "stars": 5262
+  },
+  {
+    "name": "FormidableLabs/radium",
+    "description": "A toolchain for React component styling.",
+    "stars": 5243
+  },
+  {
+    "name": "datproject/dat",
+    "description": ":floppy_disk: Sync data across the distributed web.",
+    "stars": 5240
+  },
+  {
+    "name": "fengyuanchen/cropper",
+    "description": "A simple jQuery image cropping plugin.",
+    "stars": 5234
+  },
+  {
+    "name": "pagekit/vue-resource",
+    "description": "The HTTP client for Vue.js",
+    "stars": 5233
+  },
+  {
+    "name": "chalk/chalk",
+    "description": "Terminal string styling done right",
+    "stars": 5233
+  },
+  {
+    "name": "loadfive/Knwl.js",
+    "description": "Find Dates, Places, Times, and More. A .js library for parsing text for specific information.",
+    "stars": 5217
+  },
+  {
+    "name": "appium/appium",
+    "description": ":iphone: Automation for iOS, Android, and Windows Apps.",
+    "stars": 5212
+  },
+  {
+    "name": "mjmlio/mjml",
+    "description": "MJML: the only framework that makes responsive-email easy",
+    "stars": 5206
+  },
+  {
+    "name": "maroslaw/rainyday.js",
+    "description": "Simulating raindrops falling on a window",
+    "stars": 5183
+  },
+  {
+    "name": "dbushell/Pikaday",
+    "description": "A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS",
+    "stars": 5183
+  },
+  {
+    "name": "reflux/refluxjs",
+    "description": "A simple library for uni-directional dataflow application architecture with React extensions inspired by Flux",
+    "stars": 5173
+  },
+  {
+    "name": "callmecavs/layzr.js",
+    "description": "A modern lazy loading library for images.",
+    "stars": 5165
+  },
+  {
+    "name": "websockets/ws",
+    "description": "Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js",
+    "stars": 5164
+  },
+  {
+    "name": "openstf/stf",
+    "description": "Control and manage Android devices from your browser.",
+    "stars": 5141
+  },
+  {
+    "name": "react-native-training/react-native-elements",
+    "description": "Cross Platform React Native UI Toolkit",
+    "stars": 5137
+  },
+  {
+    "name": "chieffancypants/angular-loading-bar",
+    "description": "A fully automatic loading / progress bar for your angular apps.",
+    "stars": 5131
+  },
+  {
+    "name": "imakewebthings/deck.js",
+    "description": "Modern HTML Presentations",
+    "stars": 5129
+  },
+  {
+    "name": "jscs-dev/node-jscs",
+    "description": ":arrow_heading_up: JavaScript Code Style checker (deprecated)",
+    "stars": 5126
+  },
+  {
+    "name": "almende/vis",
+    "description": "Dynamic, browser-based visualization library",
+    "stars": 5107
+  },
+  {
+    "name": "qiao/PathFinding.js",
+    "description": "A comprehensive path-finding library for grid based games",
+    "stars": 5106
+  },
+  {
+    "name": "gaearon/redux-thunk",
+    "description": "Thunk middleware for Redux",
+    "stars": 5106
+  },
+  {
+    "name": "google/lovefield",
+    "description": "Lovefield is a relational database for web apps. Written in JavaScript, works cross-browser. Provides SQL-like APIs that are fast, safe, and easy to use.",
+    "stars": 5104
+  },
+  {
+    "name": "pcottle/learnGitBranching",
+    "description": "An interactive git visualization to challenge and educate!",
+    "stars": 5104
+  },
+  {
+    "name": "acgotaku/BaiduExporter",
+    "description": "Assistant for Baidu to export download links to aria2/aria2-rpc",
+    "stars": 5081
+  },
+  {
+    "name": "needim/noty",
+    "description": "NOTY is a notification library that makes it easy to create alert - success - error - warning - information - confirmation messages as an alternative the standard alert dialog.",
+    "stars": 5079
+  },
+  {
+    "name": "NeXTs/Clusterize.js",
+    "description": "Tiny vanilla JS plugin to display large data sets easily",
+    "stars": 5078
+  },
+  {
+    "name": "visionmedia/supertest",
+    "description": "Super-agent driven library for testing node.js HTTP servers using a fluent API",
+    "stars": 5070
+  },
+  {
+    "name": "fontello/fontello",
+    "description": "Iconic fonts scissors",
+    "stars": 5045
+  },
+  {
+    "name": "jquery/sizzle",
+    "description": "A sizzlin' hot selector engine.",
+    "stars": 5036
+  },
+  {
+    "name": "alexwolfe/Buttons",
+    "description": "A CSS button library built using Sass and Compass",
+    "stars": 5015
+  },
+  {
+    "name": "jschr/bootstrap-modal",
+    "description": "Extends the default Bootstrap Modal class. Responsive, stackable, ajax and more.",
+    "stars": 5014
+  },
+  {
+    "name": "nfarina/homebridge",
+    "description": "HomeKit support for the impatient",
+    "stars": 5013
+  },
+  {
+    "name": "aterrien/jQuery-Knob",
+    "description": "Nice, downward compatible, touchable, jQuery dial",
+    "stars": 5010
+  },
+  {
+    "name": "daniel-lundin/snabbt.js",
+    "description": "Fast animations with javascript and CSS transforms",
+    "stars": 5009
+  },
+  {
+    "name": "jonobr1/two.js",
+    "description": "A renderer agnostic two-dimensional drawing api for the web.",
+    "stars": 5008
+  },
+  {
+    "name": "Rich-Harris/ramjet",
+    "description": "Morph DOM elements from one state to another with smooth animations and transitions",
+    "stars": 5003
+  }
+]
