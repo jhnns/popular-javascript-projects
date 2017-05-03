@@ -1,8 +1,6 @@
 # Popular JavaScript projects
 
-Scripts that I have used to retrieve and process data about JavaScript projects from GitHub, npm, StackOverflow etc.
-
-You can use the scripts for yourself if you want up-to-date data. Otherwise, check out my [gists](#gists) for precompiled data.
+**Scripts that I have used to retrieve and process data about JavaScript projects from GitHub, npm, StackOverflow etc.** Run these scripts if you want up-to-date data. Otherwise, check out my [gists](#gists) for precompiled data.
 
 ## Scripts
 
@@ -72,7 +70,9 @@ Since there is a rate limit on the GitHub API, you need to create [an access tok
 
 ## HTTP Cache
 
-In order to save some requests, all responses are infinitly cached inside the `.http-cache` folder. Just delete this folder if you want to avoid stale data. You can delete all cached responses for a specific URL by using the [`removeFromHttpCache`](#removefromhttpcache) script.
+In order to save some requests, all responses are infinitly cached inside the `.http-cache` folder. Failed requests are not cached.
+
+Just delete this folder if you want to avoid stale data. You can delete all cached responses for a specific URL by using the [`removeFromHttpCache`](#removefromhttpcache) script.
 
 ## License
 
