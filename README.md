@@ -1,8 +1,8 @@
 # Popular JavaScript projects
 
-This repository provides scripts that I have used to retrieve and process data about JavaScript projects from GitHub, npm, StackOverflow etc. You can use the scripts for yourself if you want up-to-date data.
+Scripts that I have used to retrieve and process data about JavaScript projects from GitHub, npm, StackOverflow etc.
 
-If you don't want to run the scripts for yourself, check out my [gists](#gists) for precompiled data.
+You can use the scripts for yourself if you want up-to-date data. Otherwise, check out my [gists](#gists) for precompiled data.
 
 ## Scripts
 
@@ -10,7 +10,7 @@ All scripts can be executed with node > 6 by running `node scripts/<script-name>
 
 You can pipe that data into a dedicated file by running for example `node scripts/githubStarsHistory.js jhnns/popular-javascript-projects > data/my-file.json`.
 
-### `githubMostPopular`
+### githubMostPopular
 
 **Arguments:**
 
@@ -26,7 +26,7 @@ node scripts/githubMostPopular.js 10000 > data/at-least-10000-stars.json
 
 Requires a GitHub access token (see [Config](#config)).
 
-### `githubStarsHistory`
+### githubStarsHistory
 
 **Arguments:**
 
@@ -42,7 +42,7 @@ node scripts/githubStarsHistory.js jhnns/popular-javascript-projects > data/star
 
 Requires a GitHub access token (see [Config](#config)).
 
-### `removeFromHttpCache`
+### removeFromHttpCache
 
 **Arguments:**
 
@@ -68,11 +68,11 @@ If a non-public API or an API with rate limits is used, you need to provide acce
 
 ### GitHub
 
-In order to increase the rate limit, you need to create [an access token](https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/).
+Since there is a rate limit on the GitHub API, you need to create [an access token](https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/).
 
 ## HTTP Cache
 
-In order to save some requests, all responses are infinitly cached inside the `.http-cache` folder. Please delete this folder if you want to avoid stale data. You can delete all cached responses for a specific URL by using the [`removeFromHttpCache`](#removefromhttpcache) script.
+In order to save some requests, all responses are infinitly cached inside the `.http-cache` folder. Just delete this folder if you want to avoid stale data. You can delete all cached responses for a specific URL by using the [`removeFromHttpCache`](#removefromhttpcache) script.
 
 ## License
 
