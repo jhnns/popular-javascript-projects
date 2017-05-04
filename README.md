@@ -1,12 +1,18 @@
 # Popular JavaScript projects
 
-**Scripts that I have used to retrieve and process data about JavaScript projects from GitHub, npm, StackOverflow etc.** Run these scripts if you want up-to-date data. Otherwise, check out my [gists](#gists) for precompiled data.
+**Scripts that I have used to retrieve and process data about JavaScript projects from Github, npm, StackOverflow etc.** Run these scripts if you want up-to-date data. Otherwise, check out my [gists](#gists) for precompiled data.
 
 ## Scripts
 
 All scripts can be executed with node > 6 by running `node scripts/<script-name> ...`. All data is written to `process.stdout`. Some meta information, such as the remaining rate limit, is written to `process.stderr`.
 
 You can pipe that data into a dedicated file by running for example `node scripts/githubStarsHistory.js jhnns/popular-javascript-projects > data/my-file.json`.
+
+**Heads up!** Github limits the pagination offset for performance reasons. This means that it might be impossible to retrieve all the desired data. For instance, `githubStarsHistory` will only return the first 40.000 stars.
+
+Github support answer:
+
+> That's indeed intentional. Some lists of resources have a limit on the pagination for performance reasons -- fetching pages with a large offset is expensive to compute which introduces performance and reliability concerns. [...] There's no workaround for this since we intentionally limit this behavior.
 
 ### githubMostPopular
 
@@ -22,7 +28,7 @@ Get all JavaScript projects with at least 10000 stars:
 node scripts/githubMostPopular.js 10000 > data/at-least-10000-stars.json
 ```
 
-Requires a GitHub access token (see [Config](#config)).
+Requires a Github access token (see [Config](#config)).
 
 ### githubStarsHistory
 
@@ -38,7 +44,7 @@ Get an array of star timestamps for a given repo:
 node scripts/githubStarsHistory.js jhnns/popular-javascript-projects > data/star-history.json
 ```
 
-Requires a GitHub access token (see [Config](#config)).
+Requires a Github access token (see [Config](#config)).
 
 ### removeFromHttpCache
 
@@ -64,9 +70,9 @@ I've created some gists with precompiled data. Also check out the revisions for 
 
 If a non-public API or an API with rate limits is used, you need to provide access tokens. Copy the `config.default.js` inside the project folder and rename it to `config.js`. This file is ignored by git because it is for your local setup only.
 
-### GitHub
+### Github
 
-Since there is a rate limit on the GitHub API, you need to create [an access token](https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/).
+Since there is a rate limit on the Github API, you need to create [an access token](https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/).
 
 ## HTTP Cache
 
