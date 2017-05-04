@@ -2,14 +2,17 @@
 
 const axios = require("axios");
 const parseLinkHeader = require("parse-link-header");
+const pThrottle = require("p-throttle");
+const Queue = require("promise-queue");
 const config = require("../../config.js");
 const httpCache = require("../httpCache");
 
 const BASE_URL = "https://api.github.com";
-
+const MAX_GET_REQUESTS_PER_SECOND = 5;
+const MAX_CONCURRENT_GET_REQUESTS = 30;
 const ACCEPT_STAR = "application/vnd.github.v3.star+json";
 const http = axios.create({
-    timeout: 20000,
+    timeout: 2 * 60 * 1000,
     headers: {
         Accept: "application/vnd.github.v3+json",
     },
@@ -17,6 +20,16 @@ const http = axios.create({
         access_token: config.github.accessToken, // eslint-disable-line camelcase
     },
 });
+const httpGetQueue = new Queue(MAX_CONCURRENT_GET_REQUESTS, Infinity);
+const httpGet = pThrottle(
+    (url, options) => {
+        console.error("GET", url, JSON.stringify(options.params));
+
+        return http.get(url, options);
+    },
+    1,
+    1000 / MAX_GET_REQUESTS_PER_SECOND
+);
 
 function isRateLimitError(err) {
     return (
@@ -36,10 +49,12 @@ async function get(path, params, headers) {
         if (isCached === true) {
             response = httpCache.read(url, params, headers);
         } else {
-            response = await http.get(url, {
-                params,
-                headers,
-            });
+            response = await httpGetQueue.add(() =>
+                httpGet(url, {
+                    params,
+                    headers,
+                })
+            );
             httpCache.write(url, params, headers, response);
         }
 
@@ -62,7 +77,8 @@ async function get(path, params, headers) {
 }
 
 async function getAllPages(path, params, headers) {
-    const responses = [await get(path, params, headers)];
+    const baseParams = Object.assign({}, params, { per_page: 100 }); // eslint-disable-line camelcase
+    const responses = [await get(path, baseParams, headers)];
     const linkHeader = responses[0].headers.link;
 
     if (linkHeader !== undefined) {
@@ -73,7 +89,7 @@ async function getAllPages(path, params, headers) {
 
         for (let page = nextPage; page <= lastPage; page++) {
             promises.push(
-                get(path, Object.assign({}, params, { page }), headers)
+                get(path, Object.assign({}, baseParams, { page }), headers)
             );
         }
 

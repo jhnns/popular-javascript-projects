@@ -37,6 +37,8 @@
   "dependencies": {
     "axios": "^0.16.1",
     "mkdirp": "^0.5.1",
-    "parse-link-header": "^0.4.1"
+    "p-throttle": "^1.1.0",
+    "parse-link-header": "^0.4.1",
+    "promise-queue": "^2.2.3"
   }
 }
