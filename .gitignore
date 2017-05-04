@@ -40,3 +40,6 @@ jspm_packages
 /config.js
 
 /.http-cache
+
+# Folder for compiled data
+/data
