@@ -8,8 +8,8 @@ const config = require("../../config.js");
 const httpCache = require("../httpCache");
 
 const BASE_URL = "https://api.github.com";
-const MAX_GET_REQUESTS_PER_SECOND = 5;
-const MAX_CONCURRENT_GET_REQUESTS = 30;
+const MAX_GET_REQUESTS_PER_SECOND = 3;
+const MAX_CONCURRENT_GET_REQUESTS = 10;
 const ACCEPT_STAR = "application/vnd.github.v3.star+json";
 const http = axios.create({
     timeout: 2 * 60 * 1000,
