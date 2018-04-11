@@ -65,6 +65,19 @@ Removes all cached responses from the given URL.
 I've created some gists with precompiled data. Also check out the revisions for historic data.
 
 - [Most popular JavaScript projects](https://gist.github.com/jhnns/94188ba0904a82bbd0491bb21b041ce8)
+- [JavaScript library types](https://gist.github.com/jhnns/d233e88b40f5a2993c240847ccef4ee3)
+- [GitHub stars history of Redux](https://gist.github.com/jhnns/d0b6e3a97e1aa72fc79d1cb4261c34b4)
+- [GitHub stars history of React](https://gist.github.com/jhnns/dd69c660125ce0db45436f7438a7b6a0)
+- [GitHub stars history of Vue](https://gist.github.com/jhnns/76d8b441bea23e900b88aa905fc359fe)
+- [GitHub stars history of Angular 2+](https://gist.github.com/jhnns/1c95607a6610eeb34d025209bba1092d)
+- [GitHub stars history of Angular 1](https://gist.github.com/jhnns/6f2306f523556683c0db9306fc4ddc68)
+- [GitHub stars history of Meteor](https://gist.github.com/jhnns/57d0079f9f3efb10e32ddb7fb8044adb)
+- [GitHub stars history of Express](https://gist.github.com/jhnns/80154cc45a760c3d8d0b7ded1b7b1728)
+- [GitHub stars history of Backbone](https://gist.github.com/jhnns/ba5a68e94e058dc73df1d22df068ff87)
+- [GitHub stars history of Ember](https://gist.github.com/jhnns/d7511a5ae7a97ed4913397521594dfb6)
+- [GitHub stars history of Knockout](https://gist.github.com/jhnns/40089e06e9dcba8aa3ff3056ec7745a7)
+- [GitHub stars history of Dojo 1](https://gist.github.com/jhnns/2619322d91290581ef4ee4922a431cc8)
+- [GitHub stars history of Marionette](https://gist.github.com/jhnns/c325f9edf213314808b5887014a2c959)
 
 ## Config
 
