@@ -2,6 +2,12 @@
 
 **Scripts that I have used to retrieve and process data about JavaScript projects from Github, npm, StackOverflow etc.** Run these scripts if you want up-to-date data. Otherwise, check out my [gists](#gists) for precompiled data.
 
+I've compiled a GitHub star history chart based on the data from May 2017:
+
+![web-framework-stars-history](https://user-images.githubusercontent.com/781746/38623573-4fb681aa-3da6-11e8-8b3e-7d513684a6b4.png)
+
+This was part of the research I was doing for my [master's thesis on universal web applications](https://johannesewald.de/master-thesis.pdf). You might also want to check out the [research results](https://johannesewald.de/research/).
+
 ## Scripts
 
 All scripts can be executed with node > 6 by running `node scripts/<script-name> ...`. All data is written to `process.stdout`. Some meta information, such as the remaining rate limit, is written to `process.stderr`.
